@@ -1,5 +1,4 @@
 # hello-world
-Beginner's cave
 
 Hello Humans!
 
